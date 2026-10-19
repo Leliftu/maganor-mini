@@ -1,0 +1,6 @@
+report_id,category,severity,platform,status
+R001,cyberbullying,4.0,Social Media,Reviewed
+R002,threats,5.0,Messaging,Pending
+R003,cyberbullying,3.0,Social Media,Reviewed
+R004,unknown,,Messaging,Pending
+R005,doxxing,4.0,Social Media,Reviewed
